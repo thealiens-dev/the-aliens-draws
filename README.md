@@ -25,5 +25,5 @@ This repo is an **immutable audit log**.
 Anyone can:
 1. take the provided `participants.csv`
 2. take the published Bitcoin block hash
-3. run the released version of `alien-draw-tool`
+3. run the specified version of Alien Draw Tool CLI
 4. reproduce the result byte-for-byte
