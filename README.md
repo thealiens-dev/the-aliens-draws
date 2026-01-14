@@ -5,6 +5,8 @@ This repository contains **publicly verifiable draw records** for The Aliens pro
 All draws are executed using the open-source tool:
 https://github.com/thealiens-dev/alien-draw-tool
 
+**Current tool version: v1.1.2**
+
 ## What this repository contains
 
 Each draw folder includes:
