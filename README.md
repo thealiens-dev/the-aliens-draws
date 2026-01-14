@@ -2,8 +2,7 @@
 
 This repository contains **publicly verifiable draw records** for The Aliens project.
 
-All draws are executed using the open-source tool:
-https://github.com/thealiens-dev/alien-draw-tool
+All draws are executed using **Alien Draw Tool CLI** (open-source, Apache 2.0).
 
 ## What this repository contains
 
